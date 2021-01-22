@@ -1,0 +1,18 @@
+{
+    "id": "33e54070-5729-11eb-832d-25779a823757",
+    "name": "Sortable",
+    "description": "Allows the arrangement of items in one or more containers via dragdrop (mouse and touch), keyboard and tap (for mobile AT).",
+    "version": "1.0.7",
+    "author": "Julian Hill",
+    "email": "julian.hill@rebusmedia.com",
+    "type": "component",
+    "configurationSchema": "schemas/config.schema.json",
+    "views": {
+        "LEARNER": {
+            "contentType": "text/html",
+            "publicDir": "public",
+            "entryPoint": "index.html"
+        }
+    },
+    "searchable": []
+}

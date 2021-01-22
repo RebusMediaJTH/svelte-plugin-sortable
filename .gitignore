@@ -1,0 +1,9 @@
+/node_modules/
+/public/build/
+/plugin-dist/
+
+.DS_Store
+.idea
+*.iml
+/cypress/videos/
+/cypress/fixtures/

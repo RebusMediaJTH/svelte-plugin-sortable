@@ -1,0 +1,12 @@
+{
+    "printWidth": 150,
+    "tabWidth": 4,
+    "trailingComma": "none",
+    "bracketSpacing": false,
+    "arrowParens": "avoid",
+    "svelteSortOrder": "scripts-styles-markup",
+    "svelteStrictMode": true,
+    "svelteBracketNewLine": true,
+    "svelteAllowShorthand": false,
+    "svelteIndentScriptAndStyle": false
+}

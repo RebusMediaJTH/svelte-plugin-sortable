@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+*.iml
+node_modules
+/dist/
+/plugin-dist/
+/scripts/
+cypress/videos
+cypress/screenshots

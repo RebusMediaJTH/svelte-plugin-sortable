@@ -1,0 +1,8 @@
+# Ignore everything in the root
+/*
+# Un-ignore all of subtree
+!/src/
+!/dev-server/
+!.gitignore
+# Don't lint test files
+/src/**/*.test.js
